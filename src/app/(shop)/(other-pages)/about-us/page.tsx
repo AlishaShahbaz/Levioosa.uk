@@ -43,11 +43,11 @@ const Page = () => {
             <div className="flex flex-1/2 sm:justify-center xl:flex-2/3">
               <div className="max-w-sm self-end">
                 <Text>
-                 At Levioosa, we’re not just a brand – we’re a movement. Our jackets blend style, comfort, and sustainability, combining classic elegance with modern trends.
+                  {`At Levioosa, we're not just a brand – we're a movement. Our jackets blend style, comfort, and sustainability, combining classic elegance with modern trends.`}
                 </Text>
                 <br />
                 <Text>
-                  Our philosophy is simple: create jackets that reflect your style and values. With a team of skilled designers, we focus on premium, eco-friendly materials to deliver luxury with purpose. Every jacket isn’t just a statement, but a step toward a sustainable future.
+                  {`Our philosophy is simple: create jackets that reflect your style and values. With a team of skilled designers, we focus on premium, eco-friendly materials to deliver luxury with purpose. Every jacket isn't just a statement, but a step toward a sustainable future.`}
                 </Text>
               </div>
             </div>
@@ -68,8 +68,8 @@ const Page = () => {
       {/* SECTION 2 */}
       <div className="mt-24 sm:mt-28 lg:mt-40">
         <Heading level={2} bigger>
-         The <span data-slot="italic">Levioosa</span>  <br />
-           Story 
+          The <span data-slot="italic">Levioosa</span>  <br />
+          Story
         </Heading>
         <div className="mt-14 flex flex-col justify-between gap-10 lg:flex-row">
           <div className="flex-4/9">
