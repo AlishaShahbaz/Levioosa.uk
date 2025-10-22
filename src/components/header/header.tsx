@@ -25,11 +25,11 @@ const mega_menus = [
     href: '#',
     chidren: [
       { name: 'All collections 1', href: '/collections/all' },
-      { name: 'All collections 2', href: '/collections/page-style-2/all' },
-      { name: 'Collection page', href: '/collections/face-wash' },
-      { name: 'Product Detail', href: '/products/hydrating-sheet-mask' },
-      { name: 'Product Detail 2', href: '/products/page-style-3/leather-tote-bag' },
-      { name: 'Product Detail 3', href: '/products/page-style-2/printed-chiffon-hijab' },
+      { name: 'All collections 2', href: '/collections' },
+      { name: 'Collection page', href: '/collections' },
+      { name: 'Product Detail', href: '/products' },
+      { name: 'Product Detail 2', href: '/products' },
+      { name: 'Product Detail 3', href: '/products' },
     ],
   },
   {
