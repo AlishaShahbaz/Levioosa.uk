@@ -87,7 +87,7 @@ const Page = () => {
           <div className="flex-5/9 self-end">
             <div className="mx-auto max-w-sm">
               <Text className="mt-8">
-                From humble beginnings to becoming a leading name in fashion, <b>Levioosa</b> is built on the legacy of over 20 years of expertise in design and innovation. We are committed to producing pieces that aren't just fashion-forward but also leave a positive impact on the planet.
+                {`From humble beginnings to becoming a leading name in fashion, <b>Levioosa</b> is built on the legacy of over 20 years of expertise in design and innovation. We are committed to producing pieces that aren't just fashion-forward but also leave a positive impact on the planet.`}
               </Text>
 
 
