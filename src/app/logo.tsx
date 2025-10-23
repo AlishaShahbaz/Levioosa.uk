@@ -6,7 +6,7 @@ export function Logo({ className }: { className?: string }) {
 
 
     <Image
-      src="/images/skincare/Logo-L.png"
+      src="/images/skincare/Logo-La.jpg"
       alt="Levioosa Logo"
       width={120}
       height={0}

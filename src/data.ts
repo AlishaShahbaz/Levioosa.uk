@@ -497,7 +497,7 @@ export async function getSkincareCollections() {
       description:
         'From vintage roots to modern refinement — this is quiet confidence in cloth.',
       updatedAt: '2025-05-06T10:00:00-04:00',
-      image: '/images/skincare/Wool-2.jpg',
+      image: '/images/skincare/puffer1.jpg',
       products: products.slice(5, 10),
     },
     {
@@ -515,7 +515,7 @@ export async function getSkincareCollections() {
       handle: 'Wool Jackets',
       description: 'Hydrating moisturizers to keep your skin soft, smooth, and radiant.',
       updatedAt: '2025-05-06T10:00:00-04:00',
-      image: '/images/skincare/puffer1.jpg',
+      image: '/images/skincare/Wool-2.jpg',
       products: products.slice(4, 9),
     },
     {
@@ -524,7 +524,7 @@ export async function getSkincareCollections() {
       handle: "Suede",
       description: 'Broad-spectrum sunscreens to protect your skin from harmful UV rays.',
       updatedAt: '2025-05-06T10:00:00-04:00',
-      image: '/images/skincare/women-1.jpg',
+      image: '/images/skincare/cotton-4.jpg',
       products: products.slice(1, 6),
     },
   ]
