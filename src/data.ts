@@ -510,15 +510,6 @@ export async function getSkincareCollections() {
       products: products.slice(2, 7),
     },
     {
-      id: '4',
-      title: 'Wool Jackets',
-      handle: 'Wool Jackets',
-      description: 'Hydrating moisturizers to keep your skin soft, smooth, and radiant.',
-      updatedAt: '2025-05-06T10:00:00-04:00',
-      image: '/images/skincare/Wool-3.jpg',
-      products: products.slice(4, 9),
-    },
-    {
       id: '5',
       title: "Suede",
       handle: "Suede",
@@ -526,6 +517,15 @@ export async function getSkincareCollections() {
       updatedAt: '2025-05-06T10:00:00-04:00',
       image: '/images/skincare/cotton-4.jpg',
       products: products.slice(1, 6),
+    },
+    {
+      id: '4',
+      title: 'Wool Jackets',
+      handle: 'Wool Jackets',
+      description: 'Hydrating moisturizers to keep your skin soft, smooth, and radiant.',
+      updatedAt: '2025-05-06T10:00:00-04:00',
+      image: '/images/skincare/Wool-3.jpg',
+      products: products.slice(4, 9),
     },
   ]
 }
